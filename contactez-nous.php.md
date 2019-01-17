@@ -74,14 +74,14 @@ title: Contact
           <div class="col-md-4">
             <i class="fas fa-phone text-muted"></i>
             <p>
-              <a href="tel:+2120522225062">
-                (+212) 05 22 22 50 62
+              <a href="tel:+212522225062">
+                (+212) 5 22 22 50 62
               </a>
             </p>
             <p>
               WhatsApp:<br>
-              <a target="_blank" href="https://wa.me/+2120606060101">
-                (+212) 06 06 06 01 01
+              <a target="_blank" href="https://wa.me/+212661292131">
+                (+212) 6 61 29 21 31
               </a>
             </p>
           </div>
