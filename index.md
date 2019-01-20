@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Soutien scolaire à Casablanca
+title: Soutien scolaire à Casablanca depuis 2007
 ---
 <!-- Banner -->
 <div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.4), rgba(0,0,0,0.2)), url('assets/images/photo-1523050854058-8df90110c9f1.jpeg');">
@@ -10,9 +10,9 @@ title: Soutien scolaire à Casablanca
 
     <!-- Banner Content -->
     <div class="text-center white-text mx-5 pt-5">
-      <h2 class="mb-4">
+      <h1 class="mb-4">
         Numéro 1 de l'accompagnement scolaire à Casablanca
-      </h2>
+      </h1>
 <!--       <a href="#main" class="btn btn-outline-white btn-lg smooth">
         Consultez nos services
       </a> -->
@@ -49,7 +49,7 @@ title: Soutien scolaire à Casablanca
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" src="assets/images/photo-1523240795612-9a054b0db644.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1523240795612-9a054b0db644.jpeg" alt="Card image cap">
             <a href="{{site.baseurl}}/soutien-scolaire.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -77,7 +77,7 @@ title: Soutien scolaire à Casablanca
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" src="assets/images/photo-1492538368677-f6e0afe31dcc.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1492538368677-f6e0afe31dcc.jpeg" alt="Card image cap">
             <a href="{{site.baseurl}}/tests-et-concours.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -104,7 +104,7 @@ title: Soutien scolaire à Casablanca
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" src="assets/images/photo-1529154631088-a0e516571c60.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1529154631088-a0e516571c60.jpeg" alt="Card image cap">
             <a href="{{site.baseurl}}/centre-langues.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>

@@ -309,7 +309,7 @@ title: Les offres Bookmania
                 Le bac français repose sur deux épreuves : l’une à <strong>l’oral</strong>, basée sur un ensemble de textes de la littérature française, et l’autre, <strong>écrite</strong> avec, au choix, un commentaire de texte, une dissertation ou une écriture d’invention. Pour chacune de ces épreuves, écrite comme orale, Bookmania propose <strong>un programme de coaching annuel</strong> ou <strong>des stages intensifs de vacances.</strong>
               </p>
               <p class="card__description">
-                <a href="{{site.baseurl}}/bac-français.php">En savoir plus</a>
+                <a href="{{site.baseurl}}/bac-francais.php">En savoir plus</a>
               </p>
               <p class="card__description">
                 <a href="{{site.baseurl}}/assets/pdf/Bookmania-Litterature-francaise.pdf" target="_blank">Télécharger la brochure complète</a>
