@@ -1,2 +1,3 @@
-User-Agent: * 
+User-Agent: *
 allow: /
+Sitemap: https://www.bookmania.ma/sitemap.xml
