@@ -49,7 +49,7 @@ title: Soutien scolaire à Casablanca depuis 2007
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" title="service" src="assets/images/photo-1523240795612-9a054b0db644-small.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1523240795612-9a054b0db644-small-min.jpeg" alt="Card image cap">
             <a href="{{site.baseurl}}/soutien-scolaire.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -77,7 +77,7 @@ title: Soutien scolaire à Casablanca depuis 2007
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" title="service" src="assets/images/photo-1492538368677-f6e0afe31dcc.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1492538368677-f6e0afe31dcc-min.jpeg" alt="Card image cap">
             <a href="{{site.baseurl}}/tests-et-concours.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -104,7 +104,7 @@ title: Soutien scolaire à Casablanca depuis 2007
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" title="service" src="assets/images/photo-1529154631088-a0e516571c60.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1529154631088-a0e516571c60-min.jpeg" alt="Card image cap">
             <a href="{{site.baseurl}}/centre-langues.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
