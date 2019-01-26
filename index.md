@@ -3,7 +3,7 @@ layout: default
 title: Soutien scolaire à Casablanca depuis 2007
 ---
 <!-- Banner -->
-<div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.4), rgba(0,0,0,0.2)), url('assets/images/photo-1523050854058-8df90110c9f1.jpeg');">
+<div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.4), rgba(0,0,0,0.2)), url('assets/images/photo-1523050854058-8df90110c9f1-min.jpeg');">
 
   <!-- Mask & flexbox options-->
   <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
@@ -197,7 +197,7 @@ title: Soutien scolaire à Casablanca depuis 2007
     </div>
   </section>
 
-  <section class="reviews blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.6), rgba(0,0,0,0.8), rgba(0,101,168,0.6)), url('assets/images/photo-1498079022511-d15614cb1c02.jpeg');">
+  <section class="reviews blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.6), rgba(0,0,0,0.8), rgba(0,101,168,0.6)), url('assets/images/photo-1498079022511-d15614cb1c02-min.jpeg');">
     <div class="text-white" data-aos="zoom-in">
       <h2 class="mb-4">DES PARENTS ET DES ELEVES <strong>SATISFAITS</strong></h2>
       <!--Carousel Wrapper-->
