@@ -80,7 +80,7 @@ title: Contact
             </p>
             <p>
               WhatsApp:<br>
-              <a target="_blank" href="https://wa.me/+212661292131">
+              <a target="_blank" href="https://wa.me/212661292131">
                 (+212) 6 61 29 21 31
               </a>
             </p>
