@@ -231,7 +231,7 @@ title: Les offres Bookmania
                 En réalité, le « Home Schooling » est une forme d’<strong>éducation alternative</strong> qui s’inscrit comme LA réponse à de nombreuses angoisses des parents : <strong>déficience du système scolaire classique</strong>, particularité du profil de leur enfant <strong>(surdoué, handicapé), violence à l’école.</strong>
               </p>
               <p class="card__description">
-                <a href="#">En savoir plus</a>
+                <a href="{{site.baseurl}}/home-schooling-casablanca.php">En savoir plus</a>
               </p>
             </div>
             <a href="{{site.baseurl}}/contactez-nous.php" class="btn btn-outline-primary">
