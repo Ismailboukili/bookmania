@@ -75,7 +75,7 @@ title: Contact
             <i class="fas fa-phone text-muted"></i>
             <p>
               <a href="tel:+212522225062">
-                (+212) 5 22 22 50 62
+                (+212) 5 22 22 50 63
               </a>
             </p>
             <p>
