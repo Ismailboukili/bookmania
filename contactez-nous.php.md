@@ -81,7 +81,7 @@ title: Contact
             <p>
               WhatsApp:<br>
               <a target="_blank" href="https://wa.me/212661292131">
-                (+212) 6 61 29 21 31
+                (+212) 6 12 80 08 01 
               </a>
             </p>
           </div>
