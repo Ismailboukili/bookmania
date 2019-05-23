@@ -51,7 +51,7 @@ title: Contact
       </div>
       <div class="col-lg-7" data-aos="fade-up">
         <div id="map-container-section" class="z-depth-1-half map-container-section mb-4" style="height: 400px">
-          <iframe src="https://maps.google.com/maps?q=51, avenue Hassan Souktani, Quartier Gautier, 20060, Casablanca Maroc&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.624520661829!2d-7.635239684719824!3d33.58909698073458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d2935589d485%3A0x93425f8fafdf71a4!2sBookmania+-+Tutoring+Language+Center+%C3%80+Casablanca!5e0!3m2!1sen!2sth!4v1558617630216!5m2!1sen!2sth" frameborder="0"
             style="border:0" allowfullscreen></iframe>
         </div>
         <div class="row text-center">
@@ -80,8 +80,8 @@ title: Contact
             </p>
             <p>
               WhatsApp:<br>
-              <a target="_blank" href="https://wa.me/212661292131">
-                (+212) 6 12 80 08 01 
+              <a target="_blank" href="https://wa.me/212606060101">
+                (+212) 6 06 06 01 01
               </a>
             </p>
           </div>
