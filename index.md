@@ -256,7 +256,7 @@ title: Soutien scolaire à Casablanca depuis 2007
   <!--Google map-->
   <div class="col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3 my-5" data-aos="fade-up">
     <div id="map-container-google-1" class="z-depth-1-half map-container">
-      <iframe src="https://maps.google.com/maps?q=51, avenue Hassan Souktani, Quartier Gautier, 20060, Casablanca Maroc&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.624520661837!2d-7.635239684719824!3d33.58909698073458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d2935589d485%3A0x93425f8fafdf71a4!2sBOOKMANIA+-+Soutien+scolaire+%26+Centre+de+langues+%C3%A0+Casablanca!5e0!3m2!1sfr!2sth!4v1558622571635!5m2!1sfr!2sth" frameborder="0"
         style="border:0" allowfullscreen></iframe>
     </div>
   </div>
