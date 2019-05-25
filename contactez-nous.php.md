@@ -4,13 +4,8 @@ title: Contact
 ---
 <main id="contact">
   <section class="container mt-4 mt-sm-5 pt-5 pb-4 pb-sm-5">
-    <!-- <div class="mt-5 mb-4"> -->
-      <!-- <h1 class="font-weight-normal"> -->
-        <!-- <strong style="color: #64686c;">Contactez-nous</strong> -->
-      <!-- </h1> -->
-    <!-- </div> -->
     <div class="row mt-5">
-      <div class="col-lg-5 mb-lg-0 mb-4" data-aos="fade-up">
+      <div class="col-lg-5 mb-lg-0 mb-4 d-flex justify-content-center" data-aos="fade-up">
         <div class="card">
           <div class="card-body">
             <p class="dark-grey-text">
@@ -47,6 +42,16 @@ title: Contact
               </div>
             </form>
           </div>
+        </div>
+      </div>
+      <div class="cta d-lg-none d-flex justify-content-center col-12 mb-5">
+        <div class="wrapper">
+          <button>
+            <a target="_blank" href="https://wa.me/212606060101" class="text-white">
+              <i class="fab fa-whatsapp"></i>
+              WHATSAPP
+            </a>
+          </button>
         </div>
       </div>
       <div class="col-lg-7" data-aos="fade-up">

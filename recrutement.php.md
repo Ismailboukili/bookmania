@@ -86,6 +86,16 @@ title: Recrutement Bookmania
         </div>
       </div>
     </div>
+    <div class="cta d-lg-none d-flex justify-content-center col-12 mt-4">
+      <div class="wrapper">
+        <button>
+          <a target="_blank" href="https://wa.me/212606060101" class="text-white">
+            <i class="fab fa-whatsapp"></i>
+            WHATSAPP
+          </a>
+        </button>
+      </div>
+    </div>
   </section>
 
 </main>
