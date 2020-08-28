@@ -11,7 +11,7 @@ title: Contact
             <p class="dark-grey-text">
               Laissez votre numéro, nous vous rappelons dans les plus brefs délais.
             </p>
-            <form action="https://formspree.io/contact@bookmania.ma" method="POST" class="validation">
+            <form action="https://formspree.io/ismail.boukili@gmail.com" method="POST" class="validation">
               <input type="hidden" name="_cc" value="Fatimazahra.birzyne@bookmania.ma">
               <input type="hidden" name="_language" value="fr" />
               <input type="hidden" name="_next" value="{{site.baseurl}}/merci.php"/>
@@ -71,8 +71,8 @@ title: Contact
           <div class="col-md-4">
             <i class="fas fa-envelope text-muted"></i>
             <p>
-              <a href="mailto:contact@bookmania.ma">
-                contact@bookmania.ma
+              <a href="mailto:ismail.boukili@gmail.com">
+                ismail.boukili@gmail.com
               </a>
             </p>
           </div>
