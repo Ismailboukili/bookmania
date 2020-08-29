@@ -116,7 +116,7 @@ title: Orientation Scolaire Casablanca
         </li>
         <li>
           <i class="mr-2 fas fa-envelope"></i>
-          <a href="mailto:ismail.boukili@gmail.com">ismail.boukili@gmail.com</a>
+          <a href="mailto:contact@bookmania.ma">contact@bookmania.ma</a>
         </li>
       </ul>
     </p>
