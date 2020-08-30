@@ -21,7 +21,7 @@ title: Les offres Bookmania
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5" data-aos="fade-left" data-aos-duration="1000">
-        <div class="description-image" style="background-image: url('assets/images/photo-1516979187457-637abb4f9353.jpeg');">
+        <div class="description-image" style="background-image: url('assets/images/photo-1516979187457-637abb4f9353.jpg');">
         </div>
       </div>
     </div>
@@ -140,7 +140,7 @@ title: Les offres Bookmania
       <div id="formula2" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1516321497487-e288fb19713f.jpeg"/>
+            <img src="assets/images/photo-1516321497487-e288fb19713f.jpg"/>
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -190,7 +190,7 @@ title: Les offres Bookmania
       <div id="formula4" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1523580846011-d3a5bc25702b.jpeg">
+            <img src="assets/images/photo-1523580846011-d3a5bc25702b.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -217,7 +217,7 @@ title: Les offres Bookmania
       <div id="formula5" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1524646514133-d392bcf4e8b9.jpeg">
+            <img src="assets/images/photo-1524646514133-d392bcf4e8b9.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -244,7 +244,7 @@ title: Les offres Bookmania
       <div id="formula6" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1454165804606-c3d57bc86b40.jpeg">
+            <img src="assets/images/photo-1454165804606-c3d57bc86b40.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -268,7 +268,7 @@ title: Les offres Bookmania
       <div id="formula7" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1435527173128-983b87201f4d.jpeg">
+            <img src="assets/images/photo-1435527173128-983b87201f4d.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -295,7 +295,7 @@ title: Les offres Bookmania
       <div id="formula8" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1460518451285-97b6aa326961.jpeg">
+            <img src="assets/images/photo-1460518451285-97b6aa326961.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -325,7 +325,7 @@ title: Les offres Bookmania
       <div id="formula9" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1434030216411-0b793f4b4173.jpeg">
+            <img src="assets/images/photo-1434030216411-0b793f4b4173.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -349,7 +349,7 @@ title: Les offres Bookmania
       <div id="formula10" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1453733190371-0a9bedd82893.jpeg">
+            <img src="assets/images/photo-1453733190371-0a9bedd82893.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">
@@ -375,7 +375,7 @@ title: Les offres Bookmania
       <div id="formula11" class="col-md-6 col-lg-6 col-xl-4 d-flex mb-5" data-aos="fade-up">
         <div class="card mt-2 mb-2 ml-auto mr-auto">
           <header class="card__thumb">
-            <img src="assets/images/photo-1476304884326-cd2c88572c5f.jpeg">
+            <img src="assets/images/photo-1476304884326-cd2c88572c5f.jpg">
           </header>
           <div class="card-body">
             <div class="card__body">

@@ -28,7 +28,7 @@ title: DAEU Casablanca
       </div>
 
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4" data-aos="fade-left" data-aos-duration="1000">
-        <div class="description-image" style="background-image: url('assets/images/photo-1519452635265-7b1fbfd1e4e0.jpeg');">
+        <div class="description-image" style="background-image: url('assets/images/photo-1519452635265-7b1fbfd1e4e0.jpg');">
         </div>
       </div>
 
@@ -71,7 +71,7 @@ title: DAEU Casablanca
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4">
-        <div class="description-image" data-aos="fade-left" data-aos-duration="1000" style="background-image: url('assets/images/photo-1510590337019-5ef8d3d32116.jpeg');">
+        <div class="description-image" data-aos="fade-left" data-aos-duration="1000" style="background-image: url('assets/images/photo-1510590337019-5ef8d3d32116.jpg');">
         </div>
       </div>
     </div>

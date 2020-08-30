@@ -5,7 +5,7 @@ title: Apprendre l'anglais à Casablanca
 <main id="nos-metiers">
 
   <div class="d-none d-sm-block">
-    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1455540904194-fc101941273a.jpeg')">
+    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1455540904194-fc101941273a.jpg')">
       <h1>Apprendre l'Anglais</h1>
     </div>
   </div>

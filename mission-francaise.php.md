@@ -28,7 +28,7 @@ title: Préparation Test Mission Française
         <div class="col-12 col-lg-4 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card mt-2 mb-2 ml-auto mr-auto">
             <header class="card__thumb">
-              <img src="assets/images/photo-1511949860663-92c5c57d48a7.jpeg">
+              <img src="assets/images/photo-1511949860663-92c5c57d48a7.jpg">
             </header>
             <div class="card-body">
               <div class="card__body text-center">
@@ -52,7 +52,7 @@ title: Préparation Test Mission Française
         <div class="col-12 col-lg-4 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card mt-2 mb-2 ml-auto mr-auto">
             <header class="card__thumb">
-              <img src="assets/images/photo-1469082993720-0b12bbd9e68b.jpeg">
+              <img src="assets/images/photo-1469082993720-0b12bbd9e68b.jpg">
             </header>
             <div class="card-body">
               <div class="card__body text-center">
@@ -72,7 +72,7 @@ title: Préparation Test Mission Française
         <div class="col-12 col-lg-4 d-flex justify-content-center mb-5" data-aos="fade-up">
           <div class="card mt-2 mb-2 ml-auto mr-auto">
             <header class="card__thumb">
-              <img src="assets/images/photo-1503676382389-4809596d5290.jpeg">
+              <img src="assets/images/photo-1503676382389-4809596d5290.jpg">
             </header>
             <div class="card-body">
               <div class="card__body text-center">

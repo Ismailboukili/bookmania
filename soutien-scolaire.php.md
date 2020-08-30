@@ -5,7 +5,7 @@ title: Soutien scolaire
 <main id="nos-metiers">
 
   <div class="d-none d-sm-block">
-    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1523240795612-9a054b0db644.jpeg')">
+    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/photo-1523240795612-9a054b0db644.jpg')">
       <h1>Soutien scolaire</h1>
     </div>
   </div>
@@ -42,7 +42,7 @@ title: Soutien scolaire
         </p>
       </div>
       <div class="d-none d-lg-block d-xl-block col-12 col-lg-5 col-xl-4" data-aos="fade-left" data-aos-duration="1000">
-        <div class="description-image" style="background-image: url('assets/images/photo-1496317899792-9d7dbcd928a1.jpeg');">
+        <div class="description-image" style="background-image: url('assets/images/photo-1496317899792-9d7dbcd928a1.jpg');">
         </div>
       </div>
     </div>

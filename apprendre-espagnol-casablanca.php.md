@@ -5,7 +5,7 @@ title: Apprendre l'espagnol à Casablanca
 <main id="nos-metiers">
 
   <div class="d-none d-sm-block">
-    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/Spanje.jpeg')">
+    <div class="banner" style="background-position: center; background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('assets/images/Spanje.jpg')">
       <h1>Apprendre l'Espagnol</h1>
     </div>
   </div>

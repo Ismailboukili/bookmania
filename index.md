@@ -3,7 +3,7 @@ layout: default
 title: Soutien scolaire à Casablanca depuis 2007
 ---
 <!-- Banner -->
-<div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.4), rgba(0,0,0,0.2)), url('assets/images/photo-1523050854058-8df90110c9f1-min.jpeg');">
+<div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.4), rgba(0,0,0,0.2)), url('assets/images/photo-1523050854058-8df90110c9f1-min.jpg');">
 
   <!-- Mask & flexbox options-->
   <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
@@ -50,7 +50,7 @@ title: Soutien scolaire à Casablanca depuis 2007
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" title="service" src="assets/images/photo-1523240795612-9a054b0db644-small-min.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1523240795612-9a054b0db644-small-min.jpg" alt="Card image cap">
             <a href="{{site.baseurl}}/soutien-scolaire.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -78,7 +78,7 @@ title: Soutien scolaire à Casablanca depuis 2007
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" title="service" src="assets/images/photo-1492538368677-f6e0afe31dcc-min.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1492538368677-f6e0afe31dcc-min.jpg" alt="Card image cap">
             <a href="{{site.baseurl}}/tests-et-concours.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -105,7 +105,7 @@ title: Soutien scolaire à Casablanca depuis 2007
         <div class="card mt-2 mb-2" data-aos="fade-up">
           <!-- Card image -->
           <div class="view view-cascade overlay">
-            <img class="card-img-top" title="service" src="assets/images/photo-1529154631088-a0e516571c60-min.jpeg" alt="Card image cap">
+            <img class="card-img-top" title="service" src="assets/images/photo-1529154631088-a0e516571c60-min.jpg" alt="Card image cap">
             <a href="{{site.baseurl}}/centre-langues.php">
               <div class="mask rgba-white-slight waves-effect waves-light"></div>
             </a>
@@ -198,7 +198,7 @@ title: Soutien scolaire à Casablanca depuis 2007
     </div>
   </section>
 
-  <section class="reviews blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.6), rgba(0,0,0,0.8), rgba(0,101,168,0.6)), url('assets/images/photo-1498079022511-d15614cb1c02-min.jpeg');">
+  <section class="reviews blue-grey lighten-5 text-center pt-5 pb-4" style="background-image: linear-gradient(-225deg, rgba(0,101,168,0.6), rgba(0,0,0,0.8), rgba(0,101,168,0.6)), url('assets/images/photo-1498079022511-d15614cb1c02-min.jpg');">
     <div class="text-white" data-aos="zoom-in">
       <h2 class="mb-4">DES PARENTS ET DES ELEVES <strong>SATISFAITS</strong></h2>
       <!--Carousel Wrapper-->
