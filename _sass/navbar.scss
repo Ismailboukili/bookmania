@@ -20,4 +20,9 @@
       display: none !important;
     }
   }
+  @media (min-width: 768px) {
+    .dropdown__tel {
+      display: none !important;
+    }
+  }
 }

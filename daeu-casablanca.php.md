@@ -92,7 +92,7 @@ title: DAEU Casablanca
     <div class="container">
       <h4><strong>Comment s’inscrire ?</strong></h4>
       <p>
-        Pour toute demande d’inscription ou d’informations complémentaires, l’ensemble de l’équipe Bookmania se tient à votre disposition soit par téléphone au <a href="tel:+2120522225062">0522225062</a>, soit par e-mail à <a href="mailto:contact@bookmania.ma">contact@bookmania.ma</a>
+        Pour toute demande d’inscription ou d’informations complémentaires, l’ensemble de l’équipe Bookmania se tient à votre disposition soit par téléphone au <a href="tel:+2120522225062">0522225062</a>, soit par e-mail à <a href="mailto:{{site.email}}">{{site.email}}</a>
       </p>
     </div>
   </section>

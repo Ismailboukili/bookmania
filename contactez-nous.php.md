@@ -71,8 +71,8 @@ title: Contact
           <div class="col-md-4">
             <i class="fas fa-envelope text-muted"></i>
             <p>
-              <a href="mailto:contact@bookmania.ma">
-                contact@bookmania.ma
+              <a href="mailto:{{site.email}}">
+                {{site.email}}
               </a>
             </p>
           </div>

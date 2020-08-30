@@ -25,7 +25,8 @@ title: Soutien scolaire à Casablanca depuis 2007
 </div>
 
 <div class="cta d-lg-none d-flex justify-content-center">
-  <div class="wrapper" data-aos="fade-up">
+  <!-- data-aos="fade-up" -->
+  <div class="wrapper">
     <div class="close"><i class="fas fa-times-circle"></i></div>
     <button>
       <a target="_blank" href="https://wa.me/212606060101" class="text-white">
@@ -153,7 +154,7 @@ title: Soutien scolaire à Casablanca depuis 2007
 
   <!-- <section class="pt-5 pb-5 blue-grey lighten-5"> -->
   <section class="pt-5 mt-1 pb-5">
-    <div class="container text-center my-2" data-aos="fade-up">
+    <div class="container text-center my-2" data-aos="fade-in">
       <!-- <h1>LE <strong>PROCESSUS</strong></h1> -->
       <!-- <hr width="200px" class="mb-5"> -->
       <div class="row">
@@ -254,7 +255,7 @@ title: Soutien scolaire à Casablanca depuis 2007
   </section>
 
   <!--Google map-->
-  <div class="col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3 my-5" data-aos="fade-up">
+  <div class="col-sm-10 offset-sm-1 col-md-8 offset-md-2 col-lg-6 offset-lg-3 my-5" data-aos="fade-in">
     <div id="map-container-google-1" class="z-depth-1-half map-container">
       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.624520661837!2d-7.635239684719824!3d33.58909698073458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7d2935589d485%3A0x93425f8fafdf71a4!2sBOOKMANIA+-+Soutien+scolaire+%26+Centre+de+langues+%C3%A0+Casablanca!5e0!3m2!1sfr!2sth!4v1558622571635!5m2!1sfr!2sth" frameborder="0"
         style="border:0" allowfullscreen></iframe>
