@@ -64,7 +64,7 @@ title: Contact
             <i class="fas fa-map-marker-alt text-muted"></i>
             <p>
               <a target="_blank" href="https://goo.gl/maps/qExbRXBoUtz">
-                51, avenue Hassan Souktani, Quartier Gautier, 20060, Casablanca Maroc
+                64, avenue Hassan Souktani, Quartier Gautier, 20060, Casablanca Maroc
               </a>
             </p>
           </div>
