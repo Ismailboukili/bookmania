@@ -17,12 +17,12 @@ title: Contact
               <input type="hidden" name="_next" value="{{site.baseurl}}/merci.php"/>
               <div class="md-form">
                 <i class="fas fa-user prefix grey-text"></i>
-                <input type="text" id="form-name" name="Nom" class="form-control">
+                <input type="text" id="form-name" name="Nom" class="form-control" required>
                 <label for="form-name">Nom complet</label>
               </div>
               <div class="md-form">
                 <i class="fas fa-envelope prefix grey-text"></i>
-                <input type="email" id="form-email" name="Email" class="form-control">
+                <input type="email" id="form-email" name="Email" class="form-control" required pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
                 <label for="form-email">Email</label>
               </div>
               <div class="md-form">

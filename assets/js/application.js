@@ -3,7 +3,7 @@ import 'bootstrap';
 import 'mdbootstrap';
 import 'owl.carousel';
 import 'jquery-validation';
-import Swal from 'sweetalert2';
+// import Swal from 'sweetalert2';
 import 'popper.js';
 
 
@@ -113,52 +113,38 @@ $(".ajax-form").validate({
   //   }
 });
 
-$(".ajax-form").submit(function(e) {
-  // $.ajax( {
-  //     url: "https://getsimpleform.com/messages?form_api_token=8d2486979bc848a65af1fefa8c9d755b",
-  //     type: 'POST',
-  //     data: new FormData(this),
-  //     processData: false,
-  //     contentType: false
-  // });
-  // $.ajax( {
-  //     url: "https://getsimpleform.com/messages?form_api_token=266b2c7c3c3d33976c95ace11ff79606",
-  //     type: 'POST',
-  //     data: new FormData(this),
-  //     processData: false,
-  //     contentType: false
-  // });
-  $.ajax( {
-      url: "https://getsimpleform.com/messages?form_api_token=eff3b371c95580b08168c54aead95f28",
-      type: 'POST',
-      data: new FormData(this),
-      processData: false,
-      contentType: false
-  });
-  $.ajax( {
-      url: "https://getsimpleform.com/messages?form_api_token=b9868fbc31dea1840fdd2b79fe24cf6d",
-      type: 'POST',
-      data: new FormData(this),
-      processData: false,
-      contentType: false
-  });
-  $.ajax( {
-      url: "https://getsimpleform.com/messages?form_api_token=a031bc8e61a78a2836c112aea6cd25f8",
-      type: 'POST',
-      data: new FormData(this),
-      processData: false,
-      contentType: false
-  });
-  document.querySelector(".ajax-form").reset();
-  e.preventDefault();
-  setTimeout(() => {
-    Swal(
-      'Merci',
-      'Votre candidature nous a bien été envoyée',
-      'success'
-    )
-  }, 100);
-});
+// $(".ajax-form").submit(function(e) {
+//   $.ajax( {
+//       url: "https://getsimpleform.com/messages?form_api_token=eff3b371c95580b08168c54aead95f28",
+//       type: 'POST',
+//       data: new FormData(this),
+//       processData: false,
+//       contentType: false
+//   });
+//   $.ajax( {
+//       url: "https://getsimpleform.com/messages?form_api_token=b9868fbc31dea1840fdd2b79fe24cf6d",
+//       type: 'POST',
+//       data: new FormData(this),
+//       processData: false,
+//       contentType: false
+//   });
+//   $.ajax( {
+//       url: "https://getsimpleform.com/messages?form_api_token=a031bc8e61a78a2836c112aea6cd25f8",
+//       type: 'POST',
+//       data: new FormData(this),
+//       processData: false,
+//       contentType: false
+//   });
+//   document.querySelector(".ajax-form").reset();
+//   e.preventDefault();
+//   setTimeout(() => {
+//     Swal(
+//       'Merci',
+//       'Votre candidature nous a bien été envoyée',
+//       'success'
+//     )
+//   }, 100);
+// });
 
 
 $(".validation").validate({
