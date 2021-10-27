@@ -2,6 +2,7 @@
 layout: default
 title: Soutien scolaire à Casablanca depuis 2007
 ---
+
 <!-- Banner -->
 <div class="view" id="banner" style="background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.4), rgba(0,0,0,0.2)), url('assets/images/photo-1523050854058-8df90110c9f1-min.jpg');">
 
@@ -13,9 +14,11 @@ title: Soutien scolaire à Casablanca depuis 2007
       <h1 class="mb-4">
         Numéro 1 de l'accompagnement scolaire à Casablanca
       </h1>
+
 <!--       <a href="#main" class="btn btn-outline-white btn-lg smooth">
         Consultez nos services
       </a> -->
+
     </div>
 
     <a href="#main" class="scroll-down my-3 smooth"></a>
@@ -29,7 +32,7 @@ title: Soutien scolaire à Casablanca depuis 2007
   <div class="wrapper">
     <div class="close"><i class="fas fa-times-circle"></i></div>
     <button>
-      <a target="_blank" href="https://wa.me/212606060101" class="text-white">
+      <a target="_blank" href="https://wa.me/message/OBA4IEB2NYR4E1" class="text-white">
         <i class="fab fa-whatsapp"></i>
         WHATSAPP
       </a>
