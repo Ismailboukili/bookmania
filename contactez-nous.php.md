@@ -80,7 +80,7 @@ title: Contact
           <div class="col-md-4">
             <i class="fas fa-phone text-muted"></i>
             <p>
-              <a href="tel:+212522225062">
+              <a href="tel:+212606060101">
                 (+212) 6 06 06 01 01
               </a>
             </p>
