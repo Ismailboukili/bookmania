@@ -13,7 +13,6 @@ title: Mot du fondateur
     <div class="row mt-3 mt-sm-4">
       <div class="col-12 d-md-none text-center mt-4 mb-3">
         <h5 class="mt-3">
-          <strong class="font-weight-bold">M.Boukili</strong>
         </h5>
       </div>
       <div class="col-12 col-md-7 col-xl-8 mb-4">
@@ -36,7 +35,6 @@ title: Mot du fondateur
       </div>
       <div class="d-none d-md-block d-lg-block d-xl-block col-md-5 col-xl-4 text-center">
         <h5 class="mt-3">
-          <strong class="font-weight-bold">M.Boukili</strong>
         </h5>
       </div>
     </div>
