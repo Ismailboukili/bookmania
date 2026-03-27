@@ -35,7 +35,6 @@ title: Mot du fondateur
         </p>
       </div>
       <div class="d-none d-md-block d-lg-block d-xl-block col-md-5 col-xl-4 text-center">
-        <img src="assets/images/ismail.jpg" class="w-100" alt="M.Boukili" style="max-width: 350px;">
         <h5 class="mt-3">
           <strong class="font-weight-bold">M.Boukili</strong>
         </h5>
